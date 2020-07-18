@@ -28,14 +28,7 @@ fieldset{
   border: 2px solid white
 }
 
-.biggerButtons{
-  border-radius: 50%;
-  width : 120px;
-  height : 120px;
-  background-color: #ff6600;
-  font-size: 40px;
-  color:white;
-}
+
 
 .inputOperators{
   font-family:cursive;
